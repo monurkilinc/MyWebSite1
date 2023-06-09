@@ -1,0 +1,34 @@
+﻿@* //No:104 Bildirimlerin listelenmesi için eklendi
+*@
+@using EntityLayer.Concrete
+@model List<Notification>
+@{
+    ViewData["Title"] = "AllNotification";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1 style="color:#a55eea">Bildirimler</h1>
+
+<table class="table table-success">
+
+    <tr>
+
+        <th>#</th>
+        <th>Bildirimler</th>
+        <th>Tarih</th>
+            
+
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+
+            <td>@item.NotificationID</td>
+            <td>@item.NotificationDetails</td>
+            <td>@item.NotificationDate.ToShortDateString()</td>
+
+        </tr>
+    }
+
+
+</table>

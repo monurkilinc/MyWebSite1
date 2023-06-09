@@ -1,0 +1,48 @@
+﻿@*No:94 BlogAdd sayfası eklendi ve model ekledik
+*@
+@model EntityLayer.Concrete.Blog
+
+@{
+    ViewData["Title"] = "BlogAdd";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+@*No:94 Blog Ekleme sayfasında formların eklenmesi
+*@
+<h1>Yeni Blog Ekleme Sayfası</h1>
+<br />
+
+@using (Html.BeginForm("BlogAdd", "Blog", FormMethod.Post))
+{
+    <br />
+    @Html.Label("Blog Başlığı")
+    <br />
+    @Html.TextBoxFor(x=>x.BlogTitle,new{@clas="form-control"})
+    @Html.ValidationMessageFor(x=>x.BlogTitle)
+    <br />
+    @Html.Label("Blog Görseli")
+    <br />
+    @Html.TextBoxFor(x=>x.BlogImage,new{@clas="form-control"})
+    @Html.ValidationMessageFor(x=>x.BlogImage)
+    <br />
+    @Html.Label("Blog Küçük Görseli")
+    <br />
+    @Html.TextBoxFor(x=>x.BlogThumbNailImage,new{@clas="form-control"})
+    @Html.ValidationMessageFor(x=>x.BlogThumbNailImage)
+    <br />
+    @Html.Label("Blog Kategorisi")
+    <br />
+
+@*  No:94 BlogAdd metodunda yazılan DropDownListin BlogAdd sayfasına çekilmesi
+*@  
+    @Html.DropDownListFor(x=>x.CategoryID,(List<SelectListItem>)ViewBag.cv,new{@clas="form-control"})
+
+    @*@Html.TextBoxFor(x=>x.CategoryID,new{@clas="form-control"})*@
+    <br />
+    @Html.Label("Blog İçeriği")
+    <br />
+    @Html.TextAreaFor(x=>x.BlogContent,3,15,new{@clas="form-control"})
+    @Html.ValidationMessageFor(x=>x.BlogContent)
+    <br />
+
+    <button class="btn btn-info">Blog Ekle</button>
+}

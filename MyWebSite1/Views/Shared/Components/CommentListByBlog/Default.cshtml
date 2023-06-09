@@ -1,0 +1,26 @@
+﻿@*No:75 Model eklendi ve kullanıcı yorumu ekrana yazdırıldı
+*@
+
+@model IEnumerable<EntityLayer.Concrete.Comment>
+
+@*	No:75 Comment/CommentListByBlog <div class></div> bölümü eklendi
+*@<div class="comment-top">
+	<h4>Yorumlar</h4>
+	@foreach (var item in Model)
+		{
+	<div class="media">
+		
+			<img src="~/web/images/b11111.jpg" alt="" class="img-fluid" />
+		<div class="media-body">
+
+@*			No:75 UserName ve Commentlerin ekrana yazdırılması
+*@			<h5 class="mt-0">@item.CommentUserName</h5>
+			<p>
+				@item.CommentContent.
+			</p>
+
+		</div>
+		
+	</div>
+	}
+</div>

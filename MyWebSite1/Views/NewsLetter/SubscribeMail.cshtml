@@ -1,0 +1,41 @@
+﻿
+@*No:80 BlogReadAlldan Sign Uup to our newsletter bölümünü kopyalayıp buraya yapıştırdık ve düzenledik
+*@
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<section class="container">
+
+	<div class="tech-btm">
+		<div class="inner-sec">
+					<p>Teknoloji,Yazılım ve diğer bloglarımız ile ilgili en güncel bilgileri mail olarak alın. </p>
+
+@*				No:80 Yol eklendi
+*@			<form action="/NewsLetter/SubscribeMail/" method="post">
+				<input type="email" placeholder="E-mail adresinizi giriniz" required="" name="Mail">
+
+			</form>
+
+
+            <button type="submit" class="btn btn-primary submit mb-4" id="btn1">Abone Ol</button>
+            <p>
+                <a href="#" id="btn1"></a>
+            </p>
+
+
+	
+		</div>
+		<br />
+		<br />
+
+	</div>
+
+	<br />
+	<br />
+
+	<script>
+		$('#btn1').click(function () {
+		swal("Tebrikler !", "Mail bültenimize abone oldunuz :)","success");
+		});
+
+    </script>
+</section>

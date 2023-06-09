@@ -1,0 +1,2338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<style>
+        .d-none{
+            display: none;
+        }
+    </style>
+<link rel="dns-prefetch" href="https://load.sgtm.earlygame.com" />
+<link rel="dns-prefetch" href="https://exchange.mediavine.com" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+<style>
+        
+    :root {
+        --black: #191820;
+        --background-dark: #191820;
+        --background-light: #FFF;
+        --text-dark: #fff;
+        --text-light: #191820;
+
+        --text-color: var(--text-dark);
+        --background: var(--background-dark);
+    }
+</style>
+<link rel="stylesheet" href="/static-assets/css/earlygame.css?id=e1fd0cb61e1cd1dab94e019b02a680dd">
+<link rel="apple-touch-icon" sizes="180x180" href="/static-assets/img/favicon/1/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static-assets/img/favicon/1/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static-assets/img/favicon/1/favicon-16x16.png">
+<link href="/fonts/icomoon.ttf" rel="preload" as="font">
+<link rel="preload" as="image" href="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=banner_webp">
+<script type="text/javascript">
+        window.hubMode = false;
+        window.env = 'production';
+        window.csrfTokenName = 'CRAFT_CSRF_TOKEN';
+        window.searchIndex = 'production_eg_en';
+        window.searchKey = '542dd3a629dd4b20c3e5a97a24d3691b';
+        window.appId = 'FNPZQ6OB9P';
+        window.adserver = '//adserver.earlygame.com';
+        window.entryId = '757685';
+        window.siteId = '1';
+    </script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+<script async type="text/javascript">
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://load.sgtm.earlygame.com/okmevyfh.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5NK6BQJ');
+
+        function gtag() { window.dataLayer.push(arguments); }
+        setTimeout(function(){
+                gtag('consent', 'update', {ad_storage: "granted", analytics_storage: "granted", functionality_storage: "granted", personalization_storage: "granted", security_storage: "granted"});
+        }, 500);
+</script>
+
+<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/early-game.js"></script>
+<title>Bad News For FIFA 24: Infantino Shares Strange Statement | EarlyGame</title><meta name="generator" content="SEOmatic">
+<meta name="description" content="Gianni Infantino is re-elected as FIFA president and spoke about the football game plans of the World Football Federation. While him using the word…">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="index, follow,  max-snippet:-1, max-image-preview:large,  max-video-preview:-1">
+<meta content="earlygamegg" property="fb:profile_id">
+<meta content="432752728108485" property="fb:app_id">
+<meta content="en_EN" property="og:locale">
+<meta content="de_DE" property="og:locale:alternate">
+<meta content="EarlyGame" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" property="og:url">
+<meta content="Bad News For FIFA 24: Infantino Shares Strange Statement | EarlyGame" property="og:title">
+<meta content="Gianni Infantino is re-elected as FIFA president and spoke about the football game plans of the World Football Federation. While him using the word &quot;egame&quot; took the spotlight, his statement could also mean we won&#039;t see a FIFA 24 at all." property="og:description">
+<meta content="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?mtime=1679331606" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="https://www.tiktok.com/@earlygamegg" property="og:see_also">
+<meta content="https://www.instagram.com/earlygamegg" property="og:see_also">
+<meta content="https://www.youtube.com/channel/UCHZSpwl0RXhyieA0F7nTImA" property="og:see_also">
+<meta content="https://discord.gg/vCRDFQceyX" property="og:see_also">
+<meta content="https://www.facebook.com/earlygamegg/" property="og:see_also">
+<meta content="https://twitter.com/earlygamegg" property="og:see_also">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@earlygamegg">
+<meta name="twitter:creator" content="@earlygamegg">
+<meta name="twitter:title" content="Bad News For FIFA 24: Infantino Shares Strange Statement | EarlyGame">
+<meta name="twitter:description" content="Gianni Infantino is re-elected as FIFA president and spoke about the football game plans of the World Football Federation. While him using the word &quot;egame&quot; took the spotlight, his statement could also mean we won&#039;t see a FIFA 24 at all.">
+<meta name="twitter:image" content="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?mtime=1679331606">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<link href="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" rel="canonical">
+<link href="https://earlygame.com" rel="home">
+<link type="text/plain" href="https://earlygame.com/humans.txt" rel="author">
+<link href="https://earlygame.com/de/fifa/schlechte-news-fifa-24-infantino-statement" rel="alternate" hreflang="de">
+<link href="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" rel="alternate" hreflang="x-default">
+<link href="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" rel="alternate" hreflang="en"></head>
+<body class="not-logged-in dark-mode earlygame">
+
+<noscript><iframe src="https://load.sgtm.earlygame.com/ns.html?id=GTM-5NK6BQJ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<section class="wrapper">
+<header data-component="header" class="header text-white">
+<div class="header__topbar">
+<div class="container text-center">
+<section class="card-join">
+<div class="card-join__join">
+<ul><li><a href="https://www.earlygame.com/my/register/"><img src="https://prod.assets.earlygamecdn.com/images/earlygame-plus-top-logo_16px.png" alt="EarlyGame PLUS top logo" width="109" height="14" /></a></li><li><a href="https://www.earlygame.com/my/register/">Join to get exclusive perks &amp; news!</a></li></ul>
+</div>
+</section>
+</div>
+</div>
+<div class="header__header d-flex flex-wrap justify-content-between">
+<div class="header__left d-flex flex-wrap align-items-center">
+<a href="#" class="header__icon d-inline-flex align-items-center justify-content-center" title="Toggle menu"></a>
+<a href="https://earlygame.com/" class="header__logo">
+<img src="/static-assets/img/logo-earlygame.svg" alt="English" width="110" height="20">
+</a>
+</div>
+<div class="header__right d-flex flex-wrap align-items-center">
+<nav class="header__link position-relative">
+<ul class="header__link-menu d-flex flex-wrap">
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/news" title="News">
+News
+</a>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/gaming" title="Gaming">
+Gaming
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/gaming/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/hogwarts-legacy" rel="" title="Hogwarts Legacy">
+Hogwarts&nbsp;Legacy
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/diablo-4" rel="" title="Diablo 4">
+Diablo&nbsp;4
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/zelda-tears-of-the-kingdom" rel="" title="Zelda: Tears of The Kingdom">
+Zelda:&nbsp;Tears&nbsp;of&nbsp;The&nbsp;Kingdom
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/overwatch-2" rel="" title="Overwatch 2">
+Overwatch&nbsp;2
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/elden-ring" rel="" title="Elden Ring">
+Elden&nbsp;Ring
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/genshin-impact" rel="" title="Genshin Impact">
+Genshin&nbsp;Impact
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/gta" rel="" title="GTA">
+GTA
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/reviews" rel="" title="Reviews">
+Reviews
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/giveaways" rel="" title="Giveaways">
+Giveaways
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/gaming/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/entertainment" title="Entertainment">
+Entertainment
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/entertainment/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/scandals" rel="" title="Gossip &amp; Scandals">
+Gossip&nbsp;&&nbsp;Scandals
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/influencers" rel="" title="Influencers">
+Influencers
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/pop-culture" rel="" title="TV &amp; Movies">
+TV&nbsp;&&nbsp;Movies
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/music" rel="" title="Music">
+Music
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/earlygame-awards" rel="" title="EarlyGame Awards">
+EarlyGame&nbsp;Awards
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/entertainment/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										header__link-item__hub">
+<a href="https://earlygame.com/lol" title="League of Legends">
+LoL
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/lol/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/champion-build-stats-runes-items-dashboard" rel="" title="Stats | Builds | Runes | Items">
+Champion&nbsp;Stats
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/live-stats-scores" rel="" title="Live Scores">
+Live&nbsp;Scores
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/patch-notes" rel="" title="Patch Notes">
+Patch&nbsp;Notes
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/champions" rel="" title="Champions">
+Champions
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/lol/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/call-of-duty" title="Call of Duty">
+CoD
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/call-of-duty/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/call-of-duty/warzone" rel="" title="Warzone">
+Warzone
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/call-of-duty/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/call-of-duty/loadouts" rel="" title="Loadouts">
+Loadouts
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/call-of-duty/mw2" rel="" title="MW2">
+MW2
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/call-of-duty/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+<li>
+<a href="https://legionfarm.com/?utm_source=earlygame&amp;utm_medium=button&amp;utm_campaign=integration" rel="nofollow" title="Play with Pros">
+Play&nbsp;with&nbsp;Pros
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item current is-active
+										">
+<a href="https://earlygame.com/fifa" title="FIFA">
+FIFA
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/fifa/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/career-mode" rel="" title="Career Mode">
+Career&nbsp;Mode
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/totw" rel="" title="TOTW/TOTS">
+TOTW/TOTS
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/fut" rel="" title="FUT">
+FUT
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/sbc" rel="" title="SBC">
+SBC
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/tips-tricks" rel="" title="Tipps &amp; Tricks">
+Tipps&nbsp;&&nbsp;Tricks
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/fifa-23" rel="" title="FIFA 23">
+FIFA&nbsp;23
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										header__link-item__hub">
+<a href="https://earlygame.com/fortnite" title="Fortnite">
+Fortnite
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/fortnite/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fortnite/leaks" rel="" title="Leaks">
+Leaks
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fortnite/challenges" rel="" title="Challenges">
+Challenges
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fortnite/tournaments" rel="" title="Tournaments">
+Tournaments
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fortnite/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/fortnite/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/valorant" title="Valorant">
+Valorant
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/valorant/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/patch-notes" rel="" title="Patch Notes">
+Patch&nbsp;Notes
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/agents" rel="" title="Agents">
+Agents
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/valorant/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										header__link-item__hub">
+<a href="https://earlygame.com/rocket-league" title="Rocket League">
+Rocket League
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/rocket-league/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/rocket-league/bundles-items" rel="" title="Bundles &amp; Items">
+Bundles&nbsp;&&nbsp;Items
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/rocket-league/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/rocket-league/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/apex-legends" title="APEX">
+APEX
+</a>
+<ul class="header__link-submenu">
+<li>
+<a href="https://earlygame.com/apex-legends/news" rel="" title="News">
+News
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/apex-legends/leaks" rel="" title="Leaks">
+Leaks
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/apex-legends/legends" rel="" title="Legends">
+Legends
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/apex-legends/cosmetics" rel="" title="Cosmetics">
+Cosmetics
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/apex-legends/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/apex-legends/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__link-item 
+										">
+<a href="https://earlygame.com/video" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</nav>
+<div class="header__login d-flex align-items-center flex-wrap">
+<ul class="header__event flex-wrap">
+<li class="d-logged-in"><a href="https://earlygame.com/my">EarlyGame+</a></li>
+</ul>
+<ul class="header__button align-items-center flex-wrap">
+<li>
+<button data-component="dark-toggle" class="dark-toggle unstyled text-white" aria-label="Toggle dark mode"><i class="icon-adjust"></i></button>
+</li>
+<li class="position-relative">
+<div class="header__search position-absolute">
+<form action="https://earlygame.com/search" class="d-flex">
+<input type="text" name="q" placeholder="Search…" class="form-control header__search-field" value="">
+<button type="button" class="header__search-button" aria-label="Search"></button>
+</form>
+</div>
+<a href="#" class="header__search-btn rounded" title="Search"></a>
+</li>
+<li class="h-logged-in"><a href="https://earlygame.com/my/login" class="btn btn-primary login-btn" title="Login"><i class="icon-user"></i> <span>Login</span></a></li>
+<li class="d-logged-in dropdown">
+<button class="btn button btn-primary login-btn dropdown-toggle" type="button" id="accountButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="my account">
+<i class="icon-user"></i> <span class="d-none d-sm-inline">Account</span>
+</button>
+<div class="dropdown-menu text-left p-2" aria-labelledby="accountButton">
+<a href="https://earlygame.com/my" class="btn button btn-secondary my-1 w-100">Homepage</a>
+<a href="https://earlygame.com/my/list" class="btn button btn-secondary my-1 w-100">My List</a>
+<a href="https://earlygame.com/my/settings" class="btn button btn-secondary my-1 w-100">Settings</a>
+<a href="https://earlygame.com/logout" class="btn button btn-secondary my-1 w-100">Sign out</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="header__mega-menu">
+<div class="header__block d-flex flex-wrap justify-content-between">
+<div class="header__leftside">
+<nav class="header__menu">
+<ul class="header__menu-list">
+<li class="header__menu-item">
+<a href="https://earlygame.com/news" class="header__menu-link-clickable
+												
+												
+												" title="News">
+News
+</a>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/gaming" class="header__menu-link header__dropdown
+												
+												
+												" title="Gaming">
+Gaming
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/gaming" title="Gaming">All Gaming</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/hogwarts-legacy" rel="" title="Hogwarts Legacy">
+Hogwarts Legacy
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/diablo-4" rel="" title="Diablo 4">
+Diablo 4
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/zelda-tears-of-the-kingdom" rel="" title="Zelda: Tears of The Kingdom">
+Zelda: Tears of The Kingdom
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/overwatch-2" rel="" title="Overwatch 2">
+Overwatch 2
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/elden-ring" rel="" title="Elden Ring">
+Elden Ring
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/genshin-impact" rel="" title="Genshin Impact">
+Genshin Impact
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/gta" rel="" title="GTA">
+GTA
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/reviews" rel="" title="Reviews">
+Reviews
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/giveaways" rel="" title="Giveaways">
+Giveaways
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/gaming/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/entertainment" class="header__menu-link header__dropdown
+												
+												
+												" title="Entertainment">
+Entertainment
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/entertainment" title="Entertainment">All Entertainment</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/scandals" rel="" title="Gossip &amp; Scandals">
+Gossip &amp; Scandals
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/influencers" rel="" title="Influencers">
+Influencers
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/pop-culture" rel="" title="TV &amp; Movies">
+TV &amp; Movies
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/music" rel="" title="Music">
+Music
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/earlygame-awards" rel="" title="EarlyGame Awards">
+EarlyGame Awards
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/entertainment/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/lol" class="header__menu-link header__dropdown
+												
+												header__menu-item__hub
+												" title="League of Legends">
+LoL
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/lol" title="League of Legends">All League of Legends</a></li>
+ <li class="header__submenuitem">
+<a href="https://earlygame.com/lol/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/champion-build-stats-runes-items-dashboard" rel="" title="Stats | Builds | Runes | Items">
+Champion Stats
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/live-stats-scores" rel="" title="Live Scores">
+Live Scores
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/patch-notes" rel="" title="Patch Notes">
+Patch Notes
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/champions" rel="" title="Champions">
+Champions
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/lol/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/call-of-duty" class="header__menu-link header__dropdown
+												
+												
+												" title="Call of Duty">
+CoD
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/call-of-duty" title="Call of Duty">All Call of Duty</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/warzone" rel="" title="Warzone">
+Warzone
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/loadouts" rel="" title="Loadouts">
+Loadouts
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/mw2" rel="" title="MW2">
+MW2
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/call-of-duty/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://legionfarm.com/?utm_source=earlygame&amp;utm_medium=button&amp;utm_campaign=integration" rel="nofollow" title="Play with Pros">
+Play with Pros
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/fifa" class="header__menu-link header__dropdown
+												
+												
+												" title="FIFA">
+FIFA
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/fifa" title="FIFA">All FIFA</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/career-mode" rel="" title="Career Mode">
+Career Mode
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/totw" rel="" title="TOTW/TOTS">
+TOTW/TOTS
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/fut" rel="" title="FUT">
+FUT
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/sbc" rel="" title="SBC">
+SBC
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/tips-tricks" rel="" title="Tipps &amp; Tricks">
+Tipps &amp; Tricks
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/fifa-23" rel="" title="FIFA 23">
+FIFA 23
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fifa/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/fortnite" class="header__menu-link header__dropdown
+												
+												header__menu-item__hub
+												" title="Fortnite">
+Fortnite
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/fortnite" title="Fortnite">All Fortnite</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/leaks" rel="" title="Leaks">
+Leaks
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/challenges" rel="" title="Challenges">
+Challenges
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/tournaments" rel="" title="Tournaments">
+Tournaments
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/fortnite/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/valorant" class="header__menu-link header__dropdown
+												
+												
+												" title="Valorant">
+Valorant
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/valorant" title="Valorant">All Valorant</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/patch-notes" rel="" title="Patch Notes">
+Patch Notes
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/skins" rel="" title="Skins">
+Skins
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/esports" rel="" title="Esports">
+Esports
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/agents" rel="" title="Agents">
+Agents
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/valorant/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/rocket-league" class="header__menu-link header__dropdown
+												
+												header__menu-item__hub
+												" title="Rocket League">
+Rocket League
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/rocket-league" title="Rocket League">All Rocket League</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/rocket-league/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/rocket-league/bundles-items" rel="" title="Bundles &amp; Items">
+Bundles &amp; Items
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/rocket-league/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/rocket-league/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/apex-legends" class="header__menu-link header__dropdown
+												
+												
+												" title="APEX">
+APEX
+</a>
+<ul class="header__submenu">
+<li class="header__submenuitem"><a href="https://earlygame.com/apex-legends" title="APEX">All APEX</a></li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/news" rel="" title="News">
+News
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/leaks" rel="" title="Leaks">
+Leaks
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/legends" rel="" title="Legends">
+Legends
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/cosmetics" rel="" title="Cosmetics">
+Cosmetics
+</a>
+</li>
+<li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/guides" rel="" title="Guides">
+Guides
+</a>
+</li>
+ <li class="header__submenuitem">
+<a href="https://earlygame.com/apex-legends/videos" rel="" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</li>
+<li class="header__menu-item">
+<a href="https://earlygame.com/video" class="header__menu-link-clickable
+												
+												
+												" title="Videos">
+Videos
+</a>
+</li>
+</ul>
+</nav>
+<ul class="header__event header__event--mobile flex-wrap">
+<li><a href="https://earlygame.com/my" class="btn btn-primary login-btn" title="EarlyGame+"><i class="icon-user"></i> <span>EarlyGame+</span></a></li>
+</ul>
+<div class="header__social d-flex flex-wrap">
+<a href="https://twitter.com/earlygamegg" target="_blank" rel="noopener" title="Twitter" class="d-flex align-items-center justify-content-center icon-twitter"></a>
+<a href="https://www.facebook.com/earlygamegg/" target="_blank" rel="noopener" title="Facebook" class="d-flex align-items-center justify-content-center icon-facebook"></a>
+<a href="https://discord.gg/vCRDFQceyX" target="_blank" rel="noopener" title="Discord" class="d-flex align-items-center justify-content-center icon-discord"></a>
+<a href="https://www.youtube.com/channel/UCHZSpwl0RXhyieA0F7nTImA" target="_blank" rel="noopener" title="Youtube" class="d-flex align-items-center justify-content-center icon-youtube"></a>
+<a href="https://www.instagram.com/earlygamegg" target="_blank" rel="noopener" title="Instagram" class="d-flex align-items-center justify-content-center icon-instagram"></a>
+<a href="https://www.tiktok.com/@earlygamegg" target="_blank" rel="noopener" title="Tiktok" class="d-flex align-items-center justify-content-center icon-tiktok"></a>
+</div>
+</div>
+<div class="header__rightside d-none d-md-block">
+<h5>Game selection</h5>
+<div class="header__slider js-header-slider swiper position-relative">
+<div class="swiper-wrapper">
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/news" title="News" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/News_320_jinx.png?transform=gameSlider_webp" alt="News 320 jinx" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/news-logo.png" alt="News logo" width="1280" height="536" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="592566">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/gaming" title="Gaming" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/kena.jpg?transform=gameSlider_webp" alt="Kena" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/gaming_new.png" alt="Gaming new" width="544" height="117" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38486">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/entertainment" title="Entertainment" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Enterianment_CB_2021-09-30-122626_gycd.png?transform=gameSlider_webp" alt="Enterianment CB" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/ENT_new_2021-09-29-155103_hniv.png" alt="ENT new" width="680" height="121" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38488">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/lol" title="League of Legends" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/LOL_320.png?transform=gameSlider_webp" alt="LOL 320" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/LoL-Logo_2021-09-17-092541_lyge.png" alt="Lo L Logo" width="360" height="139" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38472">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/call-of-duty" title="Call of Duty" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/cod_320.png?transform=gameSlider_webp" alt="Cod 320" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/CoD_logo.png" alt="Co D logo" width="3828" height="896" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38474">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/fifa" title="FIFA" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/fifa_stadium.jpg?transform=gameSlider_webp" alt="Fifa stadium" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/fifa-22-logo-white_2022-06-22-142715_rnlw.png" alt="Fifa 22 logo white" width="543" height="242" loading="lazy" class="" />
+</picture>
+</div>
+ <div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38476">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/fortnite" title="Fortnite" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FortniteLlamaWP.jpg?transform=gameSlider_webp" alt="Fortnite Llama WP" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Fortnite-EarlyGame.png" alt="Fortnite Early Game" width="835" height="348" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38478">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/valorant" title="Valorant" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/valorant_ps.jpg?transform=gameSlider_webp" alt="Valorant ps" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Valorant-Logo_2021-09-17-094641_jsqj.png" alt="Valorant Logo" width="5019" height="1526" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38480">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/rocket-league" title="Rocket League" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Rocket_League.jpg?transform=gameSlider_webp" alt="Rocket League" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/RocketLeagueText.png" alt="Rocket League Text" width="1857" height="910" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38482">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/apex-legends" title="APEX" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/apex_320.png?transform=gameSlider_webp" alt="Apex 320" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/APEx_Legends_Logo.png" alt="AP Ex Legends Logo" width="1600" height="1200" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="38614">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-slide">
+<a href="https://earlygame.com/video" title="Videos" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/videosWP.png?transform=gameSlider_webp" alt="Videos WP" width="220" height="320" loading="lazy" class="" />
+</picture>
+<div class="card-image__logo game-slider__image d-flex justify-content-center position-absolute">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Untitled-1_2022-08-11-133922_xttn.png" alt="Untitled 1" width="1080" height="1080" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute" data-component="my-list" data-id="465445">
+<i class="icon-star"></i>
+</div>
+</a>
+</div>
+</div>
+<div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div>
+</div>
+<h5>More EarlyGame</h5>
+<div class="header__game js-header-slider swiper position-relative">
+<div class="swiper-wrapper">
+<div class="header__item swiper-item">
+<a href="https://earlygame.com/polls" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Esports-arena.jpg?transform=more_webp&amp;x=0.5&amp;y=0.5" alt="Esports arena" width="220" height="125" loading="lazy" class="" />
+</picture>
+<div class="card-image__text d-flex justify-content-center align-items-center position-absolute">
+<h3>Polls</h3>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute">
+<i class="icon-plus-round"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-item">
+<a href="https://earlygame.com/giveaways" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/razer-blackhsark-v2-review-im-test.jpg?transform=more_webp&amp;x=0.5&amp;y=0.5" alt="Razer blackhsark v2 review im test" width="220" height="125" loading="lazy" class="" />
+</picture>
+<div class="card-image__text d-flex justify-content-center align-items-center position-absolute">
+<h3>Giveaways</h3>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute">
+<i class="icon-plus-round"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-item">
+<a href="https://earlygame.com/videos" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/rocket-league-videos.jpg?transform=more_webp&amp;x=0.5&amp;y=0.5" alt="Rocket league videos" width="220" height="125" loading="lazy" class="" />
+</picture>
+<div class="card-image__text d-flex justify-content-center align-items-center position-absolute">
+<h3>Videos</h3>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute">
+<i class="icon-plus-round"></i>
+</div>
+</a>
+</div>
+<div class="header__item swiper-item">
+<a href="https://earlygame.com/events" class="card-image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Valorant-Tournament.jpg?transform=more_webp&amp;x=0.5&amp;y=0.5" alt="Valorant Tournament" width="220" height="125" loading="lazy" class="" />
+</picture>
+<div class="card-image__text d-flex justify-content-center align-items-center position-absolute">
+<h3>Events</h3>
+</div>
+<div class="card-image__icon d-flex align-items-center justify-content-center position-absolute">
+<i class="icon-plus-round"></i>
+</div>
+</a>
+</div>
+</div>
+<div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div>
+</div>
+</div>
+<div class="header__footer d-flex flex-wrap align-items-center">
+<ul class="header__copy d-flex align-items-center flex-wrap">
+<li>Copyright 2023 © eSports Media GmbH®</li>
+<li><a href="https://earlygame.com/terms-and-conditions">Privacy Policy</a></li>
+<li><a href="https://earlygame.com/imprint">Impressum and Disclaimer</a></li>
+</ul>
+<a href="https://earlygame.com/" class="header__footer-logo"><img src="/static-assets/img/footer-logo.svg" width="30" height="30" alt=" Logo"></a>
+<div class="header__footer-social d-flex flex-wrap">
+<div class="header__flag">
+<span class="header__contrary">
+English
+</span>
+<ul class="header__flag-list">
+<li>
+<a href="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement">
+English
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/de/fifa/schlechte-news-fifa-24-infantino-statement">
+German
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/es/">
+Spanish
+</a>
+</li>
+</ul>
+</div>
+<div class="header__social align-items-center flex-wrap">
+<a href="https://twitter.com/earlygamegg" target="_blank" rel="noopener" title="Twitter" class="d-flex align-items-center justify-content-center icon-twitter"></a>
+<a href="https://www.facebook.com/earlygamegg/" target="_blank" rel="noopener" title="Facebook" class="d-flex align-items-center justify-content-center icon-facebook"></a>
+<a href="https://discord.gg/vCRDFQceyX" target="_blank" rel="noopener" title="Discord" class="d-flex align-items-center justify-content-center icon-discord"></a>
+<a href="https://www.youtube.com/channel/UCHZSpwl0RXhyieA0F7nTImA" target="_blank" rel="noopener" title="Youtube" class="d-flex align-items-center justify-content-center icon-youtube"></a>
+<a href="https://www.instagram.com/earlygamegg" target="_blank" rel="noopener" title="Instagram" class="d-flex align-items-center justify-content-center icon-instagram"></a>
+<a href="https://www.tiktok.com/@earlygamegg" target="_blank" rel="noopener" title="Tiktok" class="d-flex align-items-center justify-content-center icon-tiktok"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header__subnav d-flex align-items-center justify-between d-md-none">
+<a class="header__subnav-context whitespace-no-wrap" href="https://earlygame.com/fifa">
+FIFA
+</a>
+<section data-component="trending" class="trending">
+<div class="trending__slider trending__slider--game">
+<div class="trending__link js-trending-slider">
+<div class="swiper-wrapper">
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/news" title="News">
+News
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/career-mode" title="Career Mode">
+Career Mode
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/totw" title="TOTW/TOTS">
+TOTW/TOTS
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/fut" title="FUT">
+FUT
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/sbc" title="SBC">
+SBC
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/tips-tricks" title="Tipps &amp; Tricks">
+Tipps &amp; Tricks
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/esports" title="Esports">
+Esports
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/fifa-23" title="FIFA 23">
+FIFA 23
+</a>
+</div>
+<div class="trending__item swiper-slide ">
+<a href="https://earlygame.com/fifa/videos" title="Videos">
+Videos
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</header>
+<article>
+<header class="banner banner--article">
+<div class="banner__bg d-none d-sm-block">
+<picture class="">
+<source srcset="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=banner3x_webp" type="image/webp" media="(min-width: 960px)" />
+<source srcset="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=banner2x_webp" type="image/webp" media="(min-width: 480px)" />
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=banner_webp" alt="FIFA 24 Infantino egame" width="480" height="270" loading="eager" class="" />
+</picture>
+</div>
+<div class="banner__bg-fade"></div>
+</header>
+<section class="container mb-sm-5 mb-4">
+<div class="row mb-5 justify-content-start">
+<div class="col-12 col-lg-auto d-none d-lg-flex align-items-start">
+<aside class="article-sidebar row">
+<div class="col-xl-12 col-lg-6 article-sidebar__col">
+<div class="mb-2 d-none d-md-block"> </div>
+<section class="person-detail">
+<span class="h5 d-block mb-2">Bad News For FIFA 24: Infantino Shares Strange Statement</span>
+<button class="btn btn-primary thumbs-up" data-component="thumbs-up" data-id="757685" aria-label="Thumbs up">
+<i class="icon-like mr-0"></i>
+<small class="count"></small>
+</button>
+<ul class="person-detail__share d-flex flex-wrap">
+<li><button data-component="dark-toggle" class="dark-toggle unstyled text-white" aria-label="Toggle dark mode"><i class="icon-adjust"></i></button>
+</li>
+<li><button class="my-list" data-component="my-list" data-id="757685" aria-label="Add to your list"><i class="icon-star"></i></button></li>
+<li class="dropdown">
+<button class="btn btn-share button btn-secondary dropdown-toggle mx-2 popup" type="button" id="shareButton-1936099228" data-toggle="dropdown" data-component="share" aria-haspopup="true" aria-expanded="false" aria-label="Share">
+<i class="icon-share"></i> Share
+</button>
+<div class="dropdown-menu text-left" aria-labelledby="shareButton-1936099228">
+<a class="btn btn-share button dropdown-item my-1" href="https://www.facebook.com/sharer/sharer.php?u=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" target="_blank" rel="nofollow noopener"><i class="icon-facebook"></i>Facebook</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://twitter.com/intent/tweet?url=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" target="_blank" rel="nofollow noopener"><i class="icon-twitter"></i> Twitter</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://www.reddit.com/submit?url=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-reddit1"></i>Reddit</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://api.whatsapp.com/send?text=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-whatsapp"></i>WhatsApp</a>
+<span class="btn btn-share button dropdown-item my-1 btn-share-clipboard" data-url="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-share"></i>Copy URL</span>
+</div> </li>
+</ul>
+</section>
+</div>
+<div class="mb-4 d-none d-md-block col-xl-12 col-lg-6">
+<section data-component="card-poll" class="card-poll card-poll-large">
+<div class="card-poll__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FUT-23-Event-Promo-Release.png?transform=cardPublication_webp" alt="FUT 23 Event Promo Release" width="340" height="180" loading="lazy" class="" />
+</picture>
+<div class="card-poll__text">
+<h5>What Was Your Favorite FUT Promo in FIFA 23 so far?</h5>
+</div>
+</div>
+<div class="card-poll__poll">
+<ul class="card-poll__poll-list">
+<li data-answer="ones-to-watch" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-1-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="ones-to-watch">
+<label for="radio-1-1-1026505433" class="radio-label d-block">OTW (Ones to Watch)</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="rttk" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-2-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="rttk">
+<label for="radio-1-2-1026505433" class="radio-label d-block">RTTK (Road to the Knockouts)</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="rulebreaker" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-3-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="rulebreaker">
+<label for="radio-1-3-1026505433" class="radio-label d-block">Rulebreaker</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="out-of-position" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-4-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="out-of-position">
+<label for="radio-1-4-1026505433" class="radio-label d-block">Out of Position</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="world-cup" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-5-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="world-cup">
+<label for="radio-1-5-1026505433" class="radio-label d-block">World Cup Event</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="toty" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-6-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="toty">
+<label for="radio-1-6-1026505433" class="radio-label d-block">TOTY (Team of the Year)</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="future-stars" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-7-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="future-stars">
+<label for="radio-1-7-1026505433" class="radio-label d-block">Future Stars</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="rttf" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-8-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="rttf">
+<label for="radio-1-8-1026505433" class="radio-label d-block">RTTF (Road to the Final)</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="showdown-series" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-9-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="showdown-series">
+<label for="radio-1-9-1026505433" class="radio-label d-block">Showdown Series</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="rivalry-release" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-10-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="rivalry-release">
+<label for="radio-1-10-1026505433" class="radio-label d-block">Rivalry Re Release</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+<li data-answer="fantasy-fut" data-poll-id="746655">
+<div class="card-poll__content">
+<input id="radio-1-11-1026505433" name="radio" type="radio" class="js-vote-trigger" data-poll-id="746655" value="fantasy-fut">
+<label for="radio-1-11-1026505433" class="radio-label d-block">FUT Fantasy</label>
+</div>
+<div class="card-poll__progress progress d-none">
+<div class="progress-bar" role="progressbar"></div>
+<div class="card-poll__percent percentage"></div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+</aside>
+</div>
+<div class="col-12 col-lg-auto mb-4 ">
+<div class="article-container">
+<div class="breadcrumbs-container">
+<ul class="breadcrumbs">
+<li>
+<a href="https://earlygame.com/">Homepage</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa">FIFA</a>
+</li>
+<li>
+<a href="https://earlygame.com/fifa/news">News</a>
+</li>
+</ul>
+</div>
+<h1>Bad News For FIFA 24: Infantino Shares Strange Statement</h1>
+<div class="d-flex justify-content-between align-items-center mb-2">
+<div class="banner__person banner__author px-2 px-sm-0 d-flex flex-wrap align-items-center">
+<img src="https://prod.assets.earlygamecdn.com/images/Bild-von-iOS.jpg?transform=author_webp&amp;x=0.4878&amp;y=0.4005" alt="Lukas Scherbaum" width="40" height="40">
+<a href="https://earlygame.com/authors/lukas-scherbaum" title="Lukas Scherbaum">
+<span class="author-name">Lukas Scherbaum</span>
+</a>
+</div>
+<div class="small-text banner__meta">
+<span>
+<a href="https://earlygame.com/fifa">FIFA</a>
+</span>
+- <span class="timestamp js-timestamp" data-component="timestamp" data-time="2023-03-20T18:05:00+01:00"></span></div>
+</div>
+<section data-component="article-content" class="article-content">
+<strong class="mb-2 d-block"><p>Gianni Infantino is re-elected as FIFA president and spoke about the football game plans of the World Football Federation. While him using the word "egame" took the spotlight, his statement could also mean we won't see a FIFA 24 at all.</p></strong>
+<figure><picture class><source srcset="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=article3x_webp" type="image/webp" media="(min-width: 960px)"><source srcset="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=article2x_webp" type="image/webp" media="(min-width: 480px)"><img src="https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?transform=article_webp" alt="FIFA 24 Infantino egame" width="480" height="270" loading="eager" class></picture><figcaption>FIFA president Gianni Infantino speaks about FIFA's future. And it doesn't look good for FIFA 24. | © EA Sports/Earlygame</figcaption></figure><p>EA Sports will no longer make new games for their FIFA series. Instead, their new game for fall 2023 will be released under the new name <a href="https://earlygame.com/fifa/ea-sports-fc-leaks-about-the-new-fifa-24" target="_blank" rel="noreferrer noopener" class="internal-link"><b>EAFC 24</b></a>. But this doesn't mean the end of FIFA. The World Football Federation has the naming rights and is planning on developing their own football game.</p>
+<p>While we haven't heard news for quite a while, Gianni Infantino has now spoken about the future of the FIFA games. And <a href="https://earlygame.com/fifa/ea-fifa-part-ways-will-fifa-24-exist" target="_blank" rel="noreferrer noopener" class="internal-link"><b>it doesn't look good for FIFA 24</b></a>... one thing is clear, though: the lad doesn't know shit about gaming.</p>
+<p>[ad_placment]</p>
+<h2>Infantino On FIFA's Gaming Plans: "Best Egame For Any Girl Or Boy"</h2>
+<p>While he was re-elected as FIFA president, he shared the following statement:<br></p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr" xml:lang="en">Infantino's FIFA 25 already looks great, I love a good egame! <a href="https://t.co/V8HYsWVeMe">pic.twitter.com/V8HYsWVeMe</a></p>— Spirit of the Blues 💙 (@SpiritofEverton) <a href="https://twitter.com/SpiritofEverton/status/1636290521147613193?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote>
+<p>Well. First of all, what the heck is an "egame"? </p>
+<p>Maybe he didn't want to mention "eFootball" as it's their competitor's game by Konami. But the guy is 52 years old, fair enough. He probably mixed up eSport and gaming. And is still a bit confused about the whole process. Because he speaks about going in "head-to-head with EA Sports" – and yet doesn't speak about FIFA 24.</p>
+<p>While we know that EA Sports was busy and secured<a href="https://earlygame.com/fifa/ea-sports-fc-leagues" target="_blank" rel="noreferrer noopener" class="internal-link"><b> first deals with clubs and leagues </b></a>as well as <a href="https://earlygame.com/fifa/ea-sports-fifa-licences-fifpro" target="_blank" rel="noreferrer noopener" class="internal-link"><b>prolonged contracts with the FIFPro </b></a>(to implement all players with original names and faces), we still have not heard something about the developers of FIFA 24 (or 25, 26 and so on).</p>
+<ul><li><i>Time to be part of next gen: </i><a href="https://www.amazon.com/dp/B0BCNKKZ91/ref=nosim?tag=earlygamegg21-20" target="_blank" rel="nofollow noreferrer noopener" data-affiliate>Get a console upgrade on Amazon<i class="icon-cart"></i></a></li></ul><p>So we are still not sure whether we will see a FIFA game later this year. But we have a suggestion for their presentation of their egame. "EE EEE EEEEEEE"</p>
+<p></p><blockquote class="twitter-tweet" data-dnt="true" align="center"><p lang="it" dir="ltr">EeeE eee Eeeee eeee ee eEeee E<br><br>Traduccion: Este dia estoy como la letra E<br><br>Pd: EEEEEEEEEEEE<a href="https://twitter.com/hashtag/EASports?src=hash&amp;ref_src=twsrc%5Etfw">#EASports</a> <a href="https://twitter.com/hashtag/E?src=hash&amp;ref_src=twsrc%5Etfw">#E</a> <a href="https://t.co/57jM4xh0E3">pic.twitter.com/57jM4xh0E3</a></p>— si te sigo quieres detener los links de insta extn (@NO_soy_kel) <a href="https://twitter.com/NO_soy_kel/status/1616476314235506688?ref_src=twsrc%5Etfw">January 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" data-original-type="text/javascript" type="lazyloadscript"></script>
+<section class="affiliate-notice">
+<div class="row">
+<div class="col-12 col-sm-2 d-none flex-wrap justify-content-center align-items-center icon-column d-md-flex">
+<i class="icon-cart"></i>
+</div>
+<div class="col-12 col-md-10 flex-wrap align-items-center">
+<p>
+<p><em class="icon-cart d-md-none"></em> This article contains affiliate links which are marked with [shopping symbol]. These links can provide a small commission for us under certain conditions. This never affects the products price for you.</p>
+</p>
+</div>
+</div>
+</section>
+</section>
+<div class="mt-4">
+<section class="card-person d-flex justify-content-md-between justify-content-center align-items-center">
+<div class="card-person__button d-flex  align-items-center">
+<ul class="card-person__share d-flex">
+<li><button data-component="dark-toggle" class="dark-toggle unstyled text-white" aria-label="Toggle dark mode"><i class="icon-adjust"></i></button>
+</li>
+<li><div data-component="my-list" class="my-list" data-id="757685"><i class="icon-star"></i></div></li>
+</ul>
+<ul class="card-person__share-btn d-flex">
+<li>
+<button class="btn btn-share button btn-secondary dropdown-toggle mx-2 popup" type="button" id="shareButton-2019323837" data-toggle="dropdown" data-component="share" aria-haspopup="true" aria-expanded="false" aria-label="Share">
+<i class="icon-share"></i> Share
+</button>
+<div class="dropdown-menu text-left" aria-labelledby="shareButton-2019323837">
+<a class="btn btn-share button dropdown-item my-1" href="https://www.facebook.com/sharer/sharer.php?u=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" target="_blank" rel="nofollow noopener"><i class="icon-facebook"></i>Facebook</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://twitter.com/intent/tweet?url=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement" target="_blank" rel="nofollow noopener"><i class="icon-twitter"></i> Twitter</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://www.reddit.com/submit?url=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-reddit1"></i>Reddit</a>
+<a class="btn btn-share button dropdown-item my-1" href="https://api.whatsapp.com/send?text=https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-whatsapp"></i>WhatsApp</a>
+<span class="btn btn-share button dropdown-item my-1 btn-share-clipboard" data-url="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"><i class="icon-share"></i>Copy URL</span>
+</div> </li>
+<li>
+<button class="btn btn-primary thumbs-up" data-component="thumbs-up" data-id="757685" aria-label="Thumbs up">
+<i class="icon-like mr-0"></i>
+<small class="count"></small>
+</button>
+</li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="col-12 col-sm-12 col-md-12 col-lg-1 d-none d-lg-block position-relative">
+</div>
+</div>
+</section>
+</article>
+<aside>
+<section class="author-selection">
+<section data-component="slider" class="slider " id="section-8920449">
+<div class="container">
+<div class="slider__topbar">
+<h3>Recommended by <a href="https://earlygame.com/authors/lukas-scherbaum" title="Lukas Scherbaum"><u>Lukas Scherbaum</u></a></h3>
+</div>
+</div>
+<div class="slider__block ">
+<div class="container">
+<div class="swiper  js-slider desktop-only-slider">
+<div class="swiper-wrapper">
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/ea-sports-fc-leaks-about-the-new-fifa-24" title="EA Sports FC: All Leaks About The New FIFA 24">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/EA-Sports-FC-24-Leaks.png?transform=cardPublication_webp" alt="EA Sports FC 24 Leaks" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>EA Sports FC: All Leaks About The New FIFA 24</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/ea-sports-fc-leagues" title="EA Sports FC: Which Leagues Will Be Included In The Next FIFA?">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/EA-Sports-FC-Leagues.png?transform=cardPublication_webp" alt="EA Sports FC Leagues" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>EA Sports FC: Which Leagues Will Be Included In The Next FIFA?</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/all-stadiums-ea-sports-fc-next-fifa" title="All EA Sports FC Stadiums: Camp Nou Coming Back To FIFA?">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/EA-Sports-FC-Stadiums-Camp-Nou-All-Stadiums.png?transform=cardPublication_webp" alt="EA Sports FC Stadiums Camp Nou All Stadiums" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>All EA Sports FC Stadiums: Camp Nou Coming Back To FIFA?</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/premier-league-ea-sports-fc" title="£488 Million: EA Closes In On Premier League Licensing Deal For EA Sports FC">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Premier-League-EA-Sports-FC.jpg?transform=cardPublication_webp" alt="Premier League EA Sports FC" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>£488 Million: EA Closes In On Premier League Licensing Deal For EA Sports FC</h5>
+</div>
+</a>
+</article>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev d-none d-sm-block"></div>
+<div class="swiper-button-next d-none d-sm-block"></div>
+</div>
+</div>
+</div>
+</section> </section>
+<section class="related">
+<section data-component="slider" class="slider " id="section-2090998900">
+<div class="container">
+<div class="slider__topbar">
+<h3>Most Popular</h3>
+</div>
+</div>
+<div class="slider__block ">
+<div class="container">
+<div class="swiper  js-slider ">
+<div class="swiper-wrapper">
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-22-talents-career-mode-rating-high-potential" title="FIFA 22 Talents: All Players With Big Potential For Career Mode | September Update">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-22-Talente-h%C3%B6chstes-Potenzial.jpg?transform=cardPublication_webp" alt="FIFA 22 Talente höchstes Potenzial" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 22 Talents: All Players With Big Potential For Career Mode | September Update</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-talents-career-mode" title="FIFA 23 Talents: Young Players With Highest Potential">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Best-Talents-FIFA-23.png?transform=cardPublication_webp" alt="Best Talents FIFA 23" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 23 Talents: Young Players With Highest Potential</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-team-of-the-year-release-leaks-and-more" title="TOTY In FIFA 23: All Players, 12th Man, Honourable Mentions And TOTY Icons In Packs Now">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/TOTY-in-FIFA-23.jpeg?transform=cardPublication_webp" alt="TOTY in FIFA 23" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>TOTY In FIFA 23: All Players, 12th Man, Honourable Mentions And TOTY Icons In Packs Now</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-wm-swaps" title="FIFA 23 World Cup Swaps: Tokens, Rewards And How To Get Them Fast">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/World-Cup-Swaps-Thumbnail.png?transform=cardPublication_webp" alt="World Cup Swaps Thumbnail" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 23 World Cup Swaps: Tokens, Rewards And How To Get Them Fast</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-fut-event-promo" title="Promo Calendar: All FUT Events In FIFA 23">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FUT-23-Event-Promo-Release.png?transform=cardPublication_webp" alt="FUT 23 Event Promo Release" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>Promo Calendar: All FUT Events In FIFA 23</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-22-summer-swaps-tokens-rewards" title="FIFA 22 Summer Swaps 2 – All Tokens, Rewards &amp; Info">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-22-Summer-Swaps-2.png?transform=cardPublication_webp" alt="FIFA 22 Summer Swaps 2" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 22 Summer Swaps 2 – All Tokens, Rewards &amp; Info</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-rttk" title="RTTK In FIFA 23: Road To The Knockouts Upgrade Tracker">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-23-RTTK-Promo-Spieler.jpg?transform=cardPublication_webp" alt="FIFA 23 RTTK Promo Spieler" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>RTTK In FIFA 23: Road To The Knockouts Upgrade Tracker</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-leaks-chemistry-system-removed" title="FIFA 23: How To Get Full Chemistry In FUT">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-23-FUT-Chemie-full-chem.png?transform=cardPublication_webp" alt="FIFA 23 FUT Chemie full chem" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 23: How To Get Full Chemistry In FUT</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/ea-sports-fc-leaks-about-the-new-fifa-24" title="EA Sports FC: All Leaks About The New FIFA 24">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/EA-Sports-FC-24-Leaks.png?transform=cardPublication_webp" alt="EA Sports FC 24 Leaks" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>EA Sports FC: All Leaks About The New FIFA 24</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-stadiums-new-all" title="FIFA 23: Complete Stadium List">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-23-Stadium-Stadion-Tottenham.jpg?transform=cardPublication_webp" alt="FIFA 23 Stadium Stadion Tottenham" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 23: Complete Stadium List</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/twitch-prime-gaming-rewards-in-fifa-23" title="FIFA 23 Prime Gaming Rewards In March: Live Now">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/MicrosoftTeams-image-8_2022-09-23-141913_qfzw.png?transform=cardPublication_webp" alt="FIFA 23 Twitch Prime Gaming Rewards" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FIFA 23 Prime Gaming Rewards In March: Live Now</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fifa/fifa-23-fut-champions-finals-rewards-weekend-league-rewards" title="FUT Champions Rewards In FIFA 23 – Season 5 Update">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/FIFA-23-FUT-Champions-Rewards.png?transform=cardPublication_webp" alt="FIFA 23 FUT Champions Rewards" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">FIFA</div>
+<h5>FUT Champions Rewards In FIFA 23 – Season 5 Update</h5>
+</div>
+</a>
+</article>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev d-none d-sm-block"></div>
+<div class="swiper-button-next d-none d-sm-block"></div>
+</div>
+</div>
+</div>
+</section></section>
+<div class="slider-placeholder">
+<section class="related">
+<section data-component="slider" class="slider " id="section-1368610677">
+<div class="container">
+<div class="slider__topbar">
+<h3>Guides</h3>
+</div>
+</div>
+<div class="slider__block ">
+<div class="container">
+<div class="swiper  js-slider ">
+<div class="swiper-wrapper">
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/gaming/diablo-4-strongholds-explained" title="Diablo 4 Strongholds Explained">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/Diablo-4-Strongholds-Explained.webp?transform=cardPublication_webp" alt="Diablo 4 Strongholds Explained" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">Gaming</div>
+<h5>Diablo 4 Strongholds Explained</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/fortnite/best-landing-places-season-chapter" title="Fortnite: Best Landing Spots In Chapter 4 Season 2">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/best-landing-spots-fortnite.JPG?transform=cardPublication_webp" alt="Best landing spots fortnite" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">Fortnite</div>
+<h5>Fortnite: Best Landing Spots In Chapter 4 Season 2</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/gaming/is-the-resident-evil-4-remake-coming-to-nintendo-switch" title="Is The Resident Evil 4 Remake Coming To Nintendo Switch?">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/RES-4-Remake-Switch.jpg?transform=cardPublication_webp" alt="RES 4 Remake Switch" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">Gaming</div>
+<h5>Is The Resident Evil 4 Remake Coming To Nintendo Switch?</h5>
+</div>
+</a>
+</article>
+</div>
+<div class="slider__item swiper-slide
+                            
+                        ">
+<article class="card-publication ">
+<a href="https://earlygame.com/entertainment/best-psychological-thrillers-on-netflix" title="Best Psychological Thrillers On Netflix">
+<div class="card-publication__image">
+<picture class="">
+<img src="https://prod.assets.earlygamecdn.com/images/best-psychological-thrillers-netflix-shutter-island.png?transform=cardPublication_webp" alt="Best psychological thrillers netflix shutter island" width="340" height="180" loading="lazy" class="" />
+</picture>
+</div>
+<div class="card-publication__content">
+<div class="card-publication__description">Entertainment</div>
+<h5>Best Psychological Thrillers On Netflix</h5>
+</div>
+</a>
+</article>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev d-none d-sm-block"></div>
+<div class="swiper-button-next d-none d-sm-block"></div>
+</div>
+</div>
+</div>
+</section></section>
+</div>
+</aside>
+<div class="btn-group dropup floating-menu position-fixed" data-component="floating-menu">
+<button type="button" class="btn dropdown-toggle floating-menu__toggle" data-toggle="dropdown" aria-label="menu" aria-haspopup="true" aria-expanded="false">
+<i class="icon-bar"></i>
+</button>
+<ul class="dropdown-menu">
+<li><a href="https://earlygame.com/fifa" class="btn btn-primary">All FIFA</a></li>
+<li><a href="https://earlygame.com/fifa/news" class="btn btn-primary">News</a></li>
+<li><a href="https://earlygame.com/fifa/videos" class="btn btn-primary">Videos</a></li>
+<li><a href="https://earlygame.com/" class="btn btn-primary">Home</a></li>
+</ul>
+</div>
+<footer data-component="footer" class="footer text-white">
+<div class="footer__subscribe">
+<div class="container">
+<div class="row align-items-center justify-content-between">
+<div class="col-12 col-sm-12 col-md-12 col-lg-5 col-xl-4">
+<h3>Subscribe to our Newsletter</h3>
+<p>Sign up for selected EarlyGame highlights, opinions and much more</p>
+</div>
+<div class="col-12 col-sm-12 col-md-12 col-lg-7">
+<form action="https://earlygame.us7.list-manage.com/subscribe/post?u=39e4a7efc34cce679b1bb7e69&amp;id=78f910cd8a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="footer__form">
+<div class="footer__input">
+<input type="text" value="" placeholder="Name" name="FNAME" class="form-control" id="mce-FNAME">
+</div>
+<div class="footer__email">
+<div class="footer__input-email">
+<input type="email" value="" name="EMAIL" placeholder="Your email address" class="required email form-control" id="mce-EMAIL">
+</div>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_39e4a7efc34cce679b1bb7e69_78f910cd8a" tabindex="-1" value=""></div>
+<ul style="display: none;">
+<li>
+<input type="checkbox" value="1" name="group[178581][1]" id="mce-group[178581]-178581-0" checked>
+<label for="mce-group[178581]-178581-0">EarlyGame Newsletter</label>
+</li>
+</ul>
+<div class="footer__button">
+<button type="submit" class="btn btn-primary footer__btn" aria-label="Submit">Subscribe</button>
+</div>
+</div>
+</div>
+</form> </div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-12 col-md-12 col-lg-7">
+<div class="footer__about">
+<h4>About Us</h4>
+<p><p>Discover the world of esports and video games. Stay up to date with news, opinion, tips, tricks and reviews.<a href="https://earlygame.com/about-us"><br />More insights about us? Click here!</a><br /></p></p>
+</div>
+<div class="d-block d-lg-none">
+<h4>Links</h4>
+<ul class="footer__link">
+</ul>
+</div>
+<div class="footer__partner">
+<h4>Partners</h4>
+<ul class="footer__partner-logo d-flex flex-wrap">
+<li class="d-flex align-items-center"><img loading="lazy" src="https://prod.assets.earlygamecdn.com/logos/Kicker-Logo.png?transform=footerPartner&amp;x=0.5&amp;y=0.5" alt="Kicker Logo" height="50" width="67"></li>
+</ul>
+</div>
+<div class="footer__partner">
+<h4>Charity Partner</h4>
+<ul class="footer__partner-logo d-flex flex-wrap">
+<li class="d-flex align-items-center">
+<img loading="lazy" src="https://prod.assets.earlygamecdn.com/images/laureus-sport-for-good-horizontal-logo.png?transform=footerPartner" alt="Laureus sport for good horizontal logo" height="50" width="174">
+</li>
+</ul>
+</div>
+</div>
+<div class="col-12 col-sm-3 d-none d-lg-block">
+<h4>Games</h4>
+<ul class="footer__link">
+<li><a href="https://earlygame.com/news">News</a></li>
+<li><a href="https://earlygame.com/gaming">Gaming</a></li>
+<li><a href="https://earlygame.com/entertainment">Entertainment</a></li>
+<li><a href="https://earlygame.com/lol">League of Legends</a></li>
+<li><a href="https://earlygame.com/call-of-duty">Call of Duty</a></li>
+<li><a href="https://earlygame.com/fifa">FIFA</a></li>
+<li><a href="https://earlygame.com/fortnite">Fortnite</a></li>
+<li><a href="https://earlygame.com/valorant">Valorant</a></li>
+<li><a href="https://earlygame.com/rocket-league">Rocket League</a></li>
+<li><a href="https://earlygame.com/apex-legends">APEX</a></li>
+<li><a href="https://earlygame.com/video">Videos</a></li>
+</ul>
+</div>
+<div class="col-12 mt-0 mt-lg-5">
+<div class="footer__copyright d-flex flex-wrap align-items-center">
+<ul class="footer__copy d-flex align-items-center flex-wrap">
+<li>Copyright 2023 © eSports Media GmbH®</li>
+<li><a href="https://earlygame.com/terms-and-conditions">Privacy Policy</a></li>
+<li><a href="https://earlygame.com/imprint">Impressum and Disclaimer</a></li>
+<li class="cb-switch d-none"><a href="#" onclick="javascript:Cookiebot.show();">Update Privacy Settings</a></li>
+</ul>
+<a href="https://earlygame.com/" class="footer__footer-logo">
+<img src="/static-assets/img/footer-logo.svg" loading="lazy" width="30" height="30" alt="English">
+</a>
+<div class="footer__social-icon d-flex flex-wrap justify-content-center">
+<div class="footer__flag">
+<a href="https://earlygame.com/" class="footer__contrary">
+English
+</a>
+<ul class="footer__flag-list">
+<li>
+<a href="https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement">
+English
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/de/fifa/schlechte-news-fifa-24-infantino-statement">
+German
+</a>
+</li>
+<li>
+<a href="https://earlygame.com/es/">
+Spanish
+</a>
+</li>
+</ul>
+</div>
+<ul class="footer__social align-items-center flex-wrap d-flex d-lg-flex mt-4 mt-sm-0 py-3 py-sm-0">
+<li><a href="https://twitter.com/earlygamegg" target="_blank" rel="noopener" title="Twitter" class="d-flex align-items-center justify-content-center"><span class="icon-twitter"></span></a></li>
+<li><a href="https://www.facebook.com/earlygamegg/" target="_blank" rel="noopener" title="Facebook" class="d-flex align-items-center justify-content-center"><span class="icon-facebook"></span></a></li>
+<li><a href="https://discord.gg/vCRDFQceyX" target="_blank" rel="noopener" title="Discord" class="d-flex align-items-center justify-content-center"><span class="icon-discord"></span></a></li>
+<li><a href="https://www.youtube.com/channel/UCHZSpwl0RXhyieA0F7nTImA" target="_blank" rel="noopener" title="Youtube" class="d-flex align-items-center justify-content-center"><span class="icon-youtube"></span></a></li>
+<li><a href="https://www.instagram.com/earlygamegg" target="_blank" rel="noopener" title="Instagram" class="d-flex align-items-center justify-content-center"><span class="icon-instagram"></span></a></li>
+<li><a href="https://www.tiktok.com/@earlygamegg" target="_blank" rel="noopener" title="Tiktok" class="d-flex align-items-center justify-content-center"><span class="icon-tiktok"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="js-increment-view" data-component="view-counter" data-id="757685" data-key="single"></div>
+</section>
+<script async type="lazyloadscript" data-original-type="text/javascript" src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "daa20bb7459a4a5b93859249c3aaff6b"}'></script>
+<script src="/static-assets/js/app.js?id=da4024ea6f8e4d72df84ccbca3fd2282" type="lazyloadscript" data-original-type="text/javascript"></script>
+<script>
+    class LazyLoad {
+        constructor(e) {
+            this.triggerEvents = e, this.eventOptions = {passive: !0}, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = {
+                normal: [],
+                async: [],
+                defer: []
+            }, this.allJQueries = []
+        }
+
+        _addUserInteractionListener(e) {
+            this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions)))
+        }
+
+        async _transformIframes() {
+            document.querySelectorAll('.lazy-iframe').forEach(i => {
+                i.setAttribute('src', i.getAttribute('data-src'))
+            })
+        }
+
+        _removeUserInteractionListener(e) {
+            this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions)))
+        }
+
+        triggerListener() {
+            this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow()
+        }
+
+        async _loadEverythingNow() {
+            this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._transformIframes(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded"))
+        }
+
+        _registerAllDelayedScripts() {
+            document.querySelectorAll("script[type=lazyloadscript]").forEach((e => {
+                e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-original-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e)
+            }))
+        }
+
+        async _transformScript(e) {
+            return await this._requestAnimFrame(), new Promise((t => {
+                const n = document.createElement("script");
+                let i;
+                [...e.attributes].forEach((e => {
+                    let t = e.nodeName;
+                    "type" !== t && ("data-original-type" === t && (t = "type", i = e.nodeValue), n.setAttribute(t, e.nodeValue))
+                })), e.hasAttribute("src") && this._isValidScriptType(i) ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e)
+            }))
+        }
+
+        _isValidScriptType(e) {
+            return !e || "" === e || "string" == typeof e && ["text/javascript", "text/x-javascript", "text/ecmascript", "text/jscript", "application/javascript", "application/x-javascript", "application/ecmascript", "application/jscript", "module"].includes(e.toLowerCase())
+        }
+
+        async _loadScriptsFromList(e) {
+            const t = e.shift();
+            return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve()
+        }
+
+        _preloadAllScripts() {
+            var e = document.createDocumentFragment();
+            [...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => {
+                const n = t.getAttribute("src");
+                if (n) {
+                    const t = document.createElement("link");
+                    t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t)
+                }
+            })), document.head.appendChild(e)
+        }
+
+        _delayEventListeners() {
+            let e = {};
+
+            function t(t, n) {
+                !function (t) {
+                    function n(n) {
+                        return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n
+                    }
+
+                    e[t] || (e[t] = {
+                        originalFunctions: {add: t.addEventListener, remove: t.removeEventListener},
+                        eventsToRewrite: []
+                    }, t.addEventListener = function () {
+                        arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments)
+                    }, t.removeEventListener = function () {
+                        arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments)
+                    })
+                }(t), e[t].eventsToRewrite.push(n)
+            }
+
+            function n(e, t) {
+                let n = e[t];
+                Object.defineProperty(e, t, {
+                    get: () => n || function () {
+                    }, set(i) {
+                        e["rocket" + t] = n = i
+                    }
+                })
+            }
+
+            t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow")
+        }
+
+        _delayJQueryReady(e) {
+            let t = window.jQuery;
+            Object.defineProperty(window, "jQuery", {
+                get: () => t, set(n) {
+                    if (n && n.fn && !e.allJQueries.includes(n)) {
+                        n.fn.ready = n.fn.init.prototype.ready = function (t) {
+                            e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n)))
+                        };
+                        const t = n.fn.on;
+                        n.fn.on = n.fn.init.prototype.on = function () {
+                            if (this[0] === window) {
+                                function e(e) {
+                                    return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ")
+                                }
+
+                                "string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => {
+                                    delete Object.assign(arguments[0], {[e(t)]: arguments[0][t]})[t]
+                                }))
+                            }
+                            return t.apply(this, arguments), this
+                        }, e.allJQueries.push(n)
+                    }
+                    t = n
+                }
+            })
+        }
+
+        async _triggerDOMContentLoaded() {
+            this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange()
+        }
+
+        async _triggerWindowLoad() {
+            await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow()
+        }
+
+        _handleDocumentWrite() {
+            const e = new Map;
+            document.write = document.writeln = function (t) {
+                const n = document.currentScript;
+                n || console.error("WPRocket unable to document.write this: " + t);
+                const i = document.createRange(), r = n.parentElement;
+                let a = e.get(n);
+                void 0 === a && (a = n.nextSibling, e.set(n, a));
+                const o = document.createDocumentFragment();
+                i.setStart(o, 0), o.appendChild(i.createContextualFragment(t)), r.insertBefore(o, a)
+            }
+        }
+
+        async _requestAnimFrame() {
+            return new Promise((e => requestAnimationFrame(e)))
+        }
+
+        static run() {
+            const e = new LazyLoad(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]);
+            e._addUserInteractionListener(e)
+        }
+    }
+
+    LazyLoad.run();
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"NewsArticle","author":{"@id":"https://earlygame.com#identity"},"copyrightHolder":{"@id":"https://earlygame.com#identity"},"copyrightYear":"2023","creator":{"@id":"https://earlygame.com#creator"},"dateModified":"2023-03-23T15:58:09+01:00","datePublished":"2023-03-20T18:05:00+01:00","description":"Gianni Infantino is re-elected as FIFA president and spoke about the football game plans of the World Football Federation. While him using the word \"egame\" took the spotlight, his statement could also mean we won't see a FIFA 24 at all.","headline":"Bad News For FIFA 24: Infantino Shares Strange Statement","image":{"@type":"ImageObject","url":"https://prod.assets.earlygamecdn.com/images/FIFA-24-Infantino-egame.jpg?mtime=1679331606"},"inLanguage":"en","mainEntityOfPage":"https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement","name":"Bad News For FIFA 24: Infantino Shares Strange Statement","publisher":{"@id":"https://earlygame.com#creator"},"url":"https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement"},{"@id":"https://earlygame.com#identity","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"Germany","addressLocality":"München","addressRegion":"Bayern","postalCode":"80798","streetAddress":"Tengstraße 9"},"alternateName":"Esports Media GmbH","description":"Discover the world of esports and video games. Stay up to date with news, opinion, tips, tricks and reviews.","email":"info@earlygame.com","image":{"@type":"ImageObject","height":"97","url":"https://earlygame.com/uploads/images/logo.jpeg","width":"468"},"logo":{"@type":"ImageObject","height":"60","url":"https://prod.assets.earlygamecdn.com/images/logo.jpeg?x=0.5&y=0.5","width":"289"},"name":"EarlyGame","sameAs":["https://twitter.com/earlygamegg","https://www.facebook.com/earlygamegg/","https://discord.gg/vCRDFQceyX","https://www.youtube.com/channel/UCHZSpwl0RXhyieA0F7nTImA","https://www.instagram.com/earlygamegg","https://www.tiktok.com/@earlygamegg"],"telephone":"+49 160 6996067","url":"https://earlygame.com"},{"@id":"https://earlygame.com#creator","@type":"Organization","address":{"@type":"PostalAddress","addressCountry":"Germany","addressLocality":"München","addressRegion":"Bayern","postalCode":"80798","streetAddress":"Tengstraße 9"},"alternateName":"Esports Media GmbH","description":"Discover the world of esports and video games. Stay up to date with news, opinion, tips, tricks, and reviews.","email":"info@earlygame.com","image":{"@type":"ImageObject","height":"97","url":"https://earlygame.com/uploads/images/logo.jpeg","width":"468"},"logo":{"@type":"ImageObject","height":"60","url":"https://prod.assets.earlygamecdn.com/images/logo.jpeg?x=0.5&y=0.5","width":"289"},"name":"EarlyGame","telephone":"+49 160 6996067","url":"https://earlygame.com"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://earlygame.com","name":"Homepage","position":1},{"@type":"ListItem","item":"https://earlygame.com/fifa","name":"FIFA","position":2},{"@type":"ListItem","item":"https://earlygame.com/fifa/bad-news-for-fifa-24-infantino-shares-strange-statement","name":"Bad News For FIFA 24: Infantino Shares Strange Statement","position":3}],"name":"Breadcrumbs"}]}</script></body>
+</html>

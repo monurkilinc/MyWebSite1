@@ -1,0 +1,37 @@
+﻿@*No:76 BlogReadAll dan taşıdık
+*@
+
+
+@*No:76 Categoryleri çağırabilmek için model tanımladık
+*@
+@model IEnumerable<EntityLayer.Concrete.Category>
+<div class="tech-btm">
+	<h4>Kategoriler</h4>
+	<ul class="list-group single">
+
+		@*No:76 Kategorileri getirmek için foreach döngüsünü kullandık ve 
+		tek bir kategori yeteceği için aşağıdaki fazla kategorileri sildik*@
+
+		@foreach(var item in Model)
+		{
+
+		<li class="list-group-item d-flex justify-content-between align-items-center">
+
+@*No:76 Category isimlerini çağırdık*@
+
+				@item.CategoryName
+			<span class="badge badge-primary badge-pill">0</span>
+		</li>
+
+
+		@*<li class="list-group-item d-flex justify-content-between align-items-center">
+			Dapibus ac facilisis in
+			<span class="badge badge-primary badge-pill">2</span>
+		</li>
+		<li class="list-group-item d-flex justify-content-between align-items-center">
+			Morbi leo risus
+			<span class="badge badge-primary badge-pill">1</span>
+		</li>*@
+		}
+	</ul>
+</div>

@@ -1,0 +1,109 @@
+﻿@using EntityLayer.Concrete
+@model List<Blog>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+}
+
+@*NO:50 Blog Tablosunun eklenmesi ve düzenlenmesi
+*@
+@*<h1>Blog Sayfası</h1>
+<br />
+<table>
+
+    <tr>
+
+        <th>ID</th>
+        <th>Başlık</th>
+
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+
+            <td>@item.BlogID</td>
+            <td>@item.BlogTitle</td>
+
+        </tr>
+    }
+
+</table>*@
+@*No:51 Partialı ekledik*@
+
+<section class="main-content-w3layouts-agileits">
+	<div class="container">
+		<h3 class="tittle">Blog Yazıları</h3>
+		<div class="inner-sec">
+			<!--left-->
+			<div class="left-blog-info-w3layouts-agileits text-left">
+				<div class="row">
+@*No:51 Foreach döngüsü ekledik.Sebebi veri tabanına eklediğimiz tabloyu yansıtmak*@
+
+				@foreach(var item in Model) 
+				{
+						
+						
+					<div class="col-lg-4 card">
+							<a href="/Blog/BlogReadAll/@item.BlogID">
+
+@*NO:53 resimlerin wwwroot klasöründen çağrılması*@
+								<img src="@item.BlogImage" class="card-img-top img-fluid" alt="">
+						</a>
+						<div class="card-body">
+							<ul class="blog-icons my-4">
+								<li>
+									<a href="#">
+@*No:57 Blog yazılarının sol alt köşesindeki tarih değerinin düzenlenmesi	
+*@										<i class="far fa-calendar-alt"></i> @(((DateTime)item.BlogCreateDate).
+										ToString("dd/MMM/yyyy"))
+									</a>
+								</li>
+								<li class="mx-2">
+									<a href="#">
+										<i class="far fa-comment"></i> 0
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										
+@*//No:54 ve //No:55 @item.Category.CategoryName yazılabilmesi için*@
+
+										<i class="fas fa-eye"></i> @item.Category?.CategoryName
+									</a>
+								</li>
+
+							</ul>
+							<h5 class="card-title">
+@*No:64 Hem Titledan hemde Devamını okudan içeriğe girmek için a hrefe asagıdaki yol yazıldı*@	
+
+								<a href="/Blog/BlogReadAll/@item.BlogID">@item.BlogTitle</a>
+							</h5>
+
+@*No:56 Veritabanından Blog yazısına açıklama ekleyip aşağıdaki ifadeyi yazdık*@
+
+							<p class="card-text mb-3">
+@*No:58 Blog yazılarının anlatım kısımlarındaki alanın 0-130 karakter arasında düzenlenmesi ve belirli karakter sayısından
+sonra ... seklinde devam etmesi şeklinde düzenledik*@
+
+								@item.BlogContent?.Substring(0,item.BlogContent.Substring(0,130).LastIndexOf(" "))...</p>
+
+@*No:59 Blog yazılarının Devamını Oku butonunun sayfaya yönlendirilmesi*@
+
+								<a href="/Blog/BlogReadAll/@item.BlogID" class="btn btn-primary read-m">Devamını Oku...</a>
+							
+						</div>
+					</div>
+
+
+					}
+
+					<br />
+					
+@*div class="col-lg4 olanları sildik"*@ @*Page navigation example ı sildik (NOT DEFTERİNDEN BAK)*@		
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</section>
+

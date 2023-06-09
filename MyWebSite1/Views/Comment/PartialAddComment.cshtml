@@ -1,0 +1,21 @@
+﻿@*No:68 BlogReadAll da yorum ekleme bölümünün gözükmesi için aşağıdaki ifade eklendi.*@
+
+
+<div class="comment-top">
+	<h4>Yorum Bırakın...</h4>
+	<div class="comment-bottom">
+		<form action="/Comment/PartialAddComment/" method="post">
+
+@*			No:81 NAME-PLACEHOLDER VE FORM ACTION DUZENLENDI*@
+
+			<input class="form-control" type="text" name="CommentUserName" placeholder="Adınız-Soyadınız" required="">
+			<input class="form-control" type="text" name="CommentTitle" placeholder="Konu" required="">
+            <textarea class="form-control" name="CommentContent" placeholder="Mesajınız" required=""></textarea>
+
+			@*<input class="form-control" type="text" name="CommentContent" placeholder="Yorumunuz" required="">*@
+
+
+			<button type="submit" class="btn btn-primary submit">Yorum Yap</button>
+		</form>
+	</div>
+</div>

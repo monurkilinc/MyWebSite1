@@ -1,0 +1,70 @@
+﻿@*        //No:114 Admin panelinde kategorilerin listelenmesi için tablolama işlemleri yapıldı
+*@
+
+
+@*//No:115 Sayfalama işlemi için @using X.PagedList ve X.PagedList.Mvc.Core ifadesi eklendi
+*@
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@model IPagedList<EntityLayer.Concrete.Category>
+@*//No:115 Sayfalama işlemi için aşağıdaki ifadeler kaldırıldı ve yukarıdakiler eklendi
+*@
+
+@*@model List<Category>
+*@
+@*@using EntityLayer.Concrete*@
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<h2 style="color:cornflowerblue" >Kategori Listesi</h2>
+<br />
+
+<table class="table table-light">
+
+<tr>
+
+    <th>#</th>
+    <th>Kategori Adı</th>
+    <th>Pasif Yap</th>
+    <th>Aktif Yap</th>
+    <th>Düzenle</th>
+
+</tr>
+
+@foreach(var item in Model)
+{
+
+    <tr>
+
+        <th>@item.CategoryID</th>
+        <td>@item.CategoryName</td>
+
+@*        No:117 Pasif yap sekmesine onclick metoduyla Silmek istediğinize emin misiniz? mesajı ekledik
+*@        <td><a href="/Admin/Category/CategoryDelete/@item.CategoryID" id="DeleteBtn" onclick="return confirm('Silmek istediğinize emin misiniz?');"
+            class="btn btn-info" style="background-color:red">Pasif Yap</a></td>
+        <td><a href="#" class="btn btn-warning" id="ActiveBtn" onclick="return confirm('Akftif etmek istediğinize emin misiniz?');" style="background-color:forestgreen">Aktif Yap</a></td>
+        <td><a href="#" class="btn btn-success">Düzenle</a></td>
+
+
+
+    </tr>
+
+
+
+}
+</table>
+
+
+@* No:115 Sayfalama işlemini sayfada görüntülemek için eklendi
+*@ 
+<a href="/Admin/Category/AddCategory" class="btn btn-primary" style="background-color:darkcyan">Kategori Ekle</a>
+<br />
+<br />
+
+
+@Html.PagedListPager((IPagedList)Model,page => Url.Action("Category","Admin",new { page } ))
